@@ -5,6 +5,7 @@ I am also a grad student in the Data Science & Business Analytics M.S. program a
 This is continuously evolving space for me to showcase all that I've learned and some of my interests.  
 Please feel free to reach out -- I am always happy to connect! :blush:
 
+
 ## :sparkles: About Me
 <details>
 <summary> 🎓 Education </summary>
@@ -66,6 +67,8 @@ Please feel free to reach out -- I am always happy to connect! :blush:
 </details>
 
 ## 📝 Technical Skills & Projects (WIP)
+
+![typing](https://github.com/user-attachments/assets/e209ea50-5561-46af-ba16-1ec6bad17b0d)
 
 <!--
 **ericphann/ericphann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
