@@ -67,8 +67,8 @@ Please feel free to reach out -- I am always happy to connect! :blush:
 </details>
 
 ## 📝 Technical Skills & Projects (WIP)
+![ezgif-4-02c30d9a2c](https://github.com/user-attachments/assets/d1ad6ae1-6f88-4858-aa1d-1c96ebb7ce10)
 
-![typing](https://github.com/user-attachments/assets/e209ea50-5561-46af-ba16-1ec6bad17b0d)
 
 <!--
 **ericphann/ericphann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
