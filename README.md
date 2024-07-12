@@ -12,6 +12,7 @@ Please feel free to reach out -- I am always happy to connect! :blush:
 <br>
   
 - M.S., __Data Science & Business Analytics__, UNC Charlotte _(in progress)_
+- Graduate Certificate, __Applied Linguistics__, UNC Charlotte _(in progress)_
 - B.S., __Computer Science__ (AI, Robotics, & Gaming), UNC Charlotte
 - B.A., __Spanish__ (Hispanic Studies), UNC Charlotte
 - Minor, __Japanese__, UNC Charlotte 
