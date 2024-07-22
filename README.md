@@ -2,7 +2,7 @@
 My name is __Eric Phann__. I am currently a Business Analyst at Bank of America.  
 I am also a grad student in the Data Science & Business Analytics M.S. program at UNC Charlotte.  
 
-This is continuously evolving space for me to showcase all that I've learned and some of my interests.  
+This is a continuously evolving space for me to showcase all that I've learned and some of my interests.  
 Please feel free to reach out -- I am always happy to connect! :blush:
 
 
