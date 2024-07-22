@@ -68,6 +68,8 @@ Please feel free to reach out -- I am always happy to connect! :blush:
 </details>
 
 ## 📝 Technical Skills & Projects (WIP)
+Please see pinned repos below while this section gets updated!  
+
 ![ezgif-4-02c30d9a2c](https://github.com/user-attachments/assets/d1ad6ae1-6f88-4858-aa1d-1c96ebb7ce10)
 
 
