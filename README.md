@@ -1,12 +1,12 @@
 ## 👋 Hello there!
 My name is __Eric Phann__. I am currently a Business Analyst at Bank of America.  
 I am also a grad student in the Data Science & Business Analytics M.S. program at UNC Charlotte.  
-
-This is a continuously evolving space for me to showcase all that I've learned and some of my interests.  
+ 
 Please feel free to reach out -- I am always happy to connect! :blush:
 
-
 ## :sparkles: About Me
+
+I am an aspiring data scientist with a strong background in linguistics and foreign languages. Currently learning a lot about natural language processing (NLP) techniques and large-language models (LLMs). I am interested in researching the dynamic between LLMs and sociolinguistics. 
 <details>
 <summary> 🎓 Education </summary>
 <br>
@@ -67,11 +67,12 @@ Please feel free to reach out -- I am always happy to connect! :blush:
 - 👨🏻‍💻 Natural language processing
 </details>
 
-## 📝 Technical Skills & Projects (WIP)
-Please see pinned repos below while this section gets updated!  
+## 📝 Skills & Projects (WIP)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,java,md,unity,git,github)](https://skillicons.dev)  
 
-![ezgif-4-02c30d9a2c](https://github.com/user-attachments/assets/d1ad6ae1-6f88-4858-aa1d-1c96ebb7ce10)
+Other packages and tools: TBD
 
+Please see pinned repos below for projects! 
 
 <!--
 **ericphann/ericphann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
