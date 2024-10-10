@@ -6,7 +6,7 @@ Please feel free to reach out -- I am always happy to connect! :blush:
 
 ## :sparkles: About Me
 
-I am an aspiring data scientist with a strong background in linguistics and foreign languages. Currently learning a lot about natural language processing (NLP) techniques and large-language models (LLMs). I am interested in researching the dynamic between LLMs and sociolinguistics. 
+I have a strong background in linguistics and foreign languages. I'm currently learning a lot about natural language processing (NLP) techniques and large-language models (LLMs). I'm interested in researching the dynamic between LLMs and sociolinguistics. 
 <details>
 <summary> 🎓 Education </summary>
 <br>
