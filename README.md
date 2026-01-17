@@ -1,6 +1,5 @@
 ## 👋 Hello there!
-My name is __Eric Phann__. I am currently a Business Analyst at Bank of America.  
-I am also a grad student in the Data Science & Business Analytics M.S. program at UNC Charlotte.  
+My name is __Eric Phann__. I’m a data scientist with an affinity for language. My research and professional interests are somewhere within the intersection of technology and linguistics.
  
 Please feel free to reach out -- I am always happy to connect! :blush:
 
@@ -11,8 +10,8 @@ I have a strong background in linguistics and foreign languages. I'm currently l
 <summary> 🎓 Education </summary>
 <br>
   
-- M.S., __Data Science & Business Analytics__, UNC Charlotte _(in progress)_
-- Graduate Certificate, __Applied Linguistics__, UNC Charlotte _(in progress)_
+- M.S., __Data Science & Business Analytics__, UNC Charlotte
+- Graduate Certificate, __Applied Linguistics__, UNC Charlotte
 - B.S., __Computer Science__ (AI, Robotics, & Gaming), UNC Charlotte
 - B.A., __Spanish__ (Hispanic Studies), UNC Charlotte
 - Minor, __Japanese__, UNC Charlotte 
